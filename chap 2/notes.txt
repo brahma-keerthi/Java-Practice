@@ -1,0 +1,3 @@
+** The arithematic operators will not work on boolean datatype (true, false)
+
+** Automatic type casting is not done in java such as in C
